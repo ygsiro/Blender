@@ -9,3 +9,5 @@
 
 1. ラビュリンスのあれ
    ![Ax](work/labrynth/Ax.png)
+2. もけもけ
+   ![mokemoke](work/mokemoke/mokemoke.png)
