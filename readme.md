@@ -11,3 +11,5 @@
    ![Ax](work/labrynth/Ax.png)
 2. もけもけ
    ![mokemoke](work/mokemoke/mokemoke.png)
+3. カルテシアの剣
+   ![sword](work/Cartesia/sword.png)
