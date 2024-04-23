@@ -4,6 +4,8 @@
 
 1. [りんご](work/apple/readme.md)  
    ![apple](work/apple/image/render.png)
+2. 10 日で Blender4 入門より
+   ![room](work/10%20Blender/room.png)
 
 ## 趣味
 
