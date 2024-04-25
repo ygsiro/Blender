@@ -17,3 +17,5 @@
    ![sword](work/Cartesia/sword.png)
 4. 自分の部屋
    ![room](work/10%20Blender/room1.png)
+5. アステーリャのらんたん  
+   ![rantan](work/asterya/らんたん.png)
