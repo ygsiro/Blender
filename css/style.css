@@ -1,0 +1,7 @@
+@charset "UTF-8";
+article {
+  width: 800px;
+}
+section section {
+  margin-left: 1em;
+}
